@@ -4,4 +4,6 @@ Tutorial designed by Angela Yu.
 Learning how to use github using: \
 basic text files\
 the command line\
-.gitignore files
+git\
+.gitignore files\
+github
