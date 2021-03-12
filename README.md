@@ -1,5 +1,5 @@
 # version-control-tutorial
-Tutorial by Angela Yu. 
+Tutorial by Angela Yu 
 +
 CS50's Git Tutorial by Brian Yu
 
@@ -9,3 +9,4 @@ the command line\
 git\
 .gitignore files\
 github
+
